@@ -4,7 +4,7 @@
 
     <groupId>au.id.ajlane</groupId>
     <artifactId>checkstyle-config</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <name>Checkstyle Configuration (${project.groupId})</name>
     <description>A common checkstyle configuration for projects in the ${project.groupId} namespace.</description>
@@ -29,7 +29,7 @@
         <url>https://github.com/ajlane/checkstyle-config</url>
         <connection>scm:git:git://github.com/ajlane/checkstyle-config.git</connection>
         <developerConnection>scm:git:git@github.com:ajlane/checkstyle-config.git</developerConnection>
-      <tag>checkstyle-config-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
